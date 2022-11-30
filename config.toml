@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Massively"
-baseURL = "http://localhost:1313/"
+baseURL = "https://anisshaikh10.github.io/hugotest/"
 theme = "hugo-theme-massively"
 googleanalytics = ""
 disqusShortname = ""
